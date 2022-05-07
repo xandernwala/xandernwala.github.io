@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Alexander C. Nwala, Assistant Professor of Data Science at William & Mary"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
