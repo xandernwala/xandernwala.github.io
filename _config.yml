@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Alexander C. Nwala"
+title                    : "Alexander C. Nwala (@acnwala)"
 title_separator          : "-"
-name                     : &name "Alexander C. Nwala"
-description              : &description "personal description"
+name                     : &name "Dr. Alexander C. Nwala"
+description              : &description "Assistant Professor of Data Science at William & Mary"
 url                      : https://xandernwala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xandernwala/xandernwala.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &acnwala
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Alexander C. Nwala"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Assistant Professor of Data Science"
+  location         : "Williamsburg, Virginia"
+  employer         : "William & Mary"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en"
+  email            : "anwala@wm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://alexandernwala.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "anwala"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/alexander-nwala-405a37229/"
+  orcid            : "http://orcid.org/0000-0003-3408-791X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "anwala"
   vine             :
   weibo            :
   xing             :
