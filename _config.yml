@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander C. Nwala @ W&M"
+title                    : "Michele C. Weigle @ ODU"
 title_separator          : "-"
-name                     : &name "Dr. Alexander C. Nwala"
-description              : &description "Assistant Professor of Data Science at William & Mary"
-url                      : https://xandernwala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Michele C. Weigle"
+description              : &description "Professor of Computer Science"
+url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xandernwala/xandernwala.github.io"
+repository               : "weiglemc/weiglemc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "acnwala"
+  username               : "weiglemc"
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Alexander Nwala"
-  avatar           : "alexander_c_nwala.jpg"
-  bio              : "Asst. Professor of Data Science"
+  name             : "Dr. Michele C. Weigle"
+  avatar           : "mweigle-ODU.jpg"
+  bio              : "Professor of Computer Science"
   location         : "Norfolk, VA"
-  employer         : "William and Mary"
+  employer         : "Old Dominion University"
+  employeruri      : "https://www.odu.edu"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en"
-  email            : "anwala at wm dot edu"
+  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
+  email            : "mweigle at cs dot odu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://alexandernwala.com"
+  uri              : "https://www.cs.odu.edu/~mweigle/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "anwala"
+  github           : "weiglemc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexander-nwala-405a37229/"
-  orcid            : "http://orcid.org/0000-0003-3408-791X"
+  linkedin         : "michele-weigle-559b052"
+  orcid            : "http://orcid.org/0000-0002-2787-7166"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "acnwala"
+  twitter          : "weiglemc"
   vine             :
   weibo            :
   xing             :
