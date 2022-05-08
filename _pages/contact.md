@@ -5,16 +5,16 @@ title: "Contact Info"
 
 ## Office Location
 
-E&amp;CS Building Rm. 3327  
-4700 Elkhorn Ave.  
-Old Dominion University  
-Norfolk, VA  
-(757) 683-7729
+Coming soon...
+Coming soon...
+William and Mary
+Williamsburg, VA  
+(XXX) XXX-XXXX
 
 ## Mailing Address
 
-Dr. Michele C. Weigle  
-4700 Elkhorn Ave., Suite 3300  
-Dept. of Computer Science  
-Old Dominion University  
-Norfolk, VA 23529-0162
+Dr. Alexander C. Nwala  
+Coming soon...
+Coming soon...
+William and Mary
+Williamsburg, VA 23185
