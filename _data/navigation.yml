@@ -12,8 +12,8 @@ main:
   #- title: "Students"
   #  url: /students/
 
-  - title: "Schedule"
-    url: /schedule/
+  #- title: "Schedule"
+  #  url: /schedule/
            
   - title: "CV"
     url: /cv/
