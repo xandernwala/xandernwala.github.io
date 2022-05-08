@@ -1,4 +1,6 @@
-*Edits by me (weiglemc) below.  For [original README](https://github.com/academicpages/academicpages.github.io/blob/master/README.md) see [academicpages.github.io](https://github.com/academicpages/academicpages.github.io).*
+*I copied [Dr. Michele C. Weigle's](https://weiglemc.github.io/) (my PhD supervisor) [website template](https://github.com/weiglemc/weiglemc.github.io). She did a fantastic job adapting this academic website template.*
+
+*Edits by [Dr. Michele C. Weigle](https://weiglemc.github.io/) below.  For [original README](https://github.com/academicpages/academicpages.github.io/blob/master/README.md) see [academicpages.github.io](https://github.com/academicpages/academicpages.github.io).*
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
@@ -11,7 +13,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 * [Adding Content to an Academic Website](https://jayrobwilliams.com/posts/2020/08/website-content/)
 * [Website GitHub repo](https://github.com/jayrobwilliams/jayrobwilliams.github.io)
 
-I used <https://realfavicongenerator.net> to generate the needed favicons (it's a lot more complicated than it used to be...).
+Dr. Weigle used <https://realfavicongenerator.net> to generate the needed favicons (it's a lot more complicated than it used to be...).
 
 ## Debugging
 
@@ -19,14 +21,14 @@ If the page doesn't regenerate automatically after a new commit, check for build
 
 ## Generating Publication Pages
 
-I adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Cookbook/BibtexRef) to read in a BibTeX file and generate various Markdown files for the website.  The files are all in the [markdown_generator](markdown_generator/) folder in this repo.
+Dr. adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Cookbook/BibtexRef) to read in a BibTeX file and generate various Markdown files for the website.  The files are all in the [markdown_generator](markdown_generator/) folder in this repo.
 
 * [`bib2md.php`](markdown_generator/bib2md.php) - driver script to generate Markdown files with publication entries
    * update with input BibTeX file, years of publications to generate, type of publications, and definition of "recent"
    * current version writes files directly into [_publications](_publications/) folder
 * [`bib2md-students.php`](markdown_generator/bib2md-students.php) - driver script to generate Markdown file with student PhD dissertations and MS theses
   * update with bibtag for new students
-  * I copy/paste lines into [_pages/students.md](_pages/students.md)
+  * <!---I copy/paste lines into [_pages/students.md](_pages/students.md)-->
 * [`bibtexref3-md.php`](markdown_generator/bibtexref3-md.php) - script adapted from PmWiki cookbook to generate Markdown
   * should only need updating to change appearance of reference line output
 
