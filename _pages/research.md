@@ -31,4 +31,10 @@ into the early stages of radicalization.
 
 <nbsp>
 
+{% include base_path %}
 
+
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
