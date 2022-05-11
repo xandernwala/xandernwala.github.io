@@ -107,6 +107,26 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**365 Dots in 2019: 
 
 {% endraw %}
 
+## [jayawardana-bigdata20](#jayawardana-bigdata20)
+
+Jayawardana, Yasith, Nwala, Alexander C, Jayawardena, Gavindya, Wu, Jian, Jayarathna, Sampath, Nelson, Michael L, and Giles, C Lee, "**Modeling Updates of Scholarly Webpages Using Archived Data**," In *Proceedings of IEEE International Conference on Big Data (IEEE BigData 2020)*. 2020.
+
+[](#jayawardana-bigdata20Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {jayawardana-bigdata20,
+      author={Jayawardana, Yasith and Nwala, Alexander C and Jayawardena, Gavindya and Wu, Jian and Jayarathna, Sampath and Nelson, Michael L and Giles, C Lee},
+      title={{Modeling Updates of Scholarly Webpages Using Archived Data}},
+      booktitle={Proceedings of IEEE International Conference on Big Data (IEEE BigData 2020)},
+      year={2020}
+}
+```
+
+{% endraw %}
+
 ## [nwala-jcdl19](#nwala-jcdl19)
 
 Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019, pp. 251-–260. <a href='http://dx.doi.org/https://doi.org/10.1109/JCDL.2019.00042' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/1905.12220' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
@@ -255,6 +275,74 @@ Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and A
      pages = {219–-228},
      doi = {},
      pubdate = {201706} 
+}
+```
+
+{% endraw %}
+
+## [whelan-bf16](#whelan-bf16)
+
+Whelan, Eoin C, Nwala, Alexander C, Osgood, Christopher, and Olariu, Stephan, "**Selective mutation accumulation: a computational model of the paternal age effect**," *Bioinformatics*, Vol. 32, No. 24, 2016, pp. 3790-3797.
+
+[](#whelan-bf16Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {whelan-bf16,
+      author={Whelan, Eoin C and Nwala, Alexander C and Osgood, Christopher and Olariu, Stephan},
+      title={Selective mutation accumulation: a computational model of the paternal age effect},
+      year={2016},
+      journal={Bioinformatics},
+      volume={32},
+      number={24},
+      pages={3790--3797}
+}
+```
+
+{% endraw %}
+
+## [nwala-jcdl16](#nwala-jcdl16)
+
+Alexander Nwala, and Michael L. Nelson, "**A Supervised Learning Algorithm for Binary Domain Classification of Web Queries using SERPs**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. 2016, pp. 237-238, Best Poster Award, 3rd place. &nbsp;<a href='https://arxiv.org/abs/1605.00184' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#nwala-jcdl16Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {nwala-jcdl16,
+      title = {A Supervised Learning Algorithm for Binary Domain Classification of Web Queries using {SERPs}},
+      author = {Alexander Nwala and Michael L. Nelson},
+      booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2016},
+      pages = {237--238},
+      arxiv = {https://arxiv.org/abs/1605.00184},
+      note={Best Poster Award, 3rd place}
+}
+```
+
+{% endraw %}
+
+## [he-infosys14](#he-infosys14)
+
+He, Wu, Kshirsagar, Ashish, Nwala, Alexander, and Li, Yaohang, "**Teaching Information Security with Workflow Technology--A Case Study Approach.**," *Journal of Information Systems Education*, Vol. 25, No. 3, 2014.
+
+[](#he-infosys14Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {he-infosys14,
+      author={He, Wu and Kshirsagar, Ashish and Nwala, Alexander and Li, Yaohang},
+      title={Teaching Information Security with Workflow Technology--A Case Study Approach.},
+      year={2014},
+      journal={Journal of Information Systems Education},
+      volume={25},
+      number={3}
 }
 ```
 
