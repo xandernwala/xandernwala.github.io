@@ -34,13 +34,12 @@ StoryGraph provides a collection tools that analyze the news cycle by computing 
 
 <a href="https://twitter.com/storygraphbot">StoryGraphBot</a> is a Twitter bot that runs every hour, tracking top news stories and creating tweet threads that report updates (rising/falling/same attention) of the stories. See also, <a href="https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html" target="_blank">Chronicling the life-cycle of top new stories with StoryGraphBot</a>.
 
-
 <figure>
   <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Story Attention Dynamics Graph">
     <img src="/images/research/sgbot_tracking_stories.png" alt="Story Attention Dynamics Graph" class="img">
   </a>
   <figcaption>
-    Story Attention Dynamics chart illustrating the life-cycle of two top news stories from May 18, 2018 -- May 19, 2018. Each line (red or blue) represents a top news story. The x-axis represents time while the y-axis represents the average degree of Connected Components (representation of story). Within our window of observation, the <a href="https://twitter.com/storygraphbot/status/1388942915574112264" target="_blank">Santa Fe High School Shooting story received peak attention on Friday May 18, 2018 at 4:40PM, this attention waned with the lowest point coinciding with the rise of a new story, the <a href="https://twitter.com/storygraphbot/status/1388943136127393796" target="_blank">Royal Wedding of Prince Harry and Meghan Markle
+    Story Attention Dynamics chart illustrating the life-cycle of two top news stories from May 18, 2018 -- May 19, 2018. Each line (red or blue) represents a top news story. The x-axis represents time while the y-axis represents the average degree of Connected Components (representation of story). Within our window of observation, the <a href="https://twitter.com/storygraphbot/status/1388942915574112264" target="_blank">Santa Fe High School Shooting</a> story received peak attention on Friday May 18, 2018 at 4:40PM, this attention waned with the lowest point coinciding with the rise of a new story, the <a href="https://twitter.com/storygraphbot/status/1388943136127393796" target="_blank">Royal Wedding of Prince Harry and Meghan Markle</a>.
   </figcaption>
 </figure>
 
