@@ -17,12 +17,12 @@ I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science
   <tr>
     <td>
       <a href="/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
-        <img src="/images/research/sgbot_tracking_stories.png" alt="Slow news cycle story graph" class="img">
+        <img src="/images/research/sample_graph_1.png" alt="Slow news cycle story graph" class="img">
       </a>
     </td>
     <td>
       <a href="/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank" title="Click me! Split attention story graph">
-        <img src="/images/research/sumgrams_ebola.png" alt="Split attention story graph" class="img">
+        <img src="/images/research/sample_graph_2.png" alt="Split attention story graph" class="img">
       </a>
     </td>
     <td>
