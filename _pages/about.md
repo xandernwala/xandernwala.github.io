@@ -13,6 +13,25 @@ blogger-color: "#F37100"
 ---
 I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William and Mary (W&M). Before joining W&M, I was a postdoc at the [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington. And before that, a member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University (ODU). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and Elizabeth City State University (BS: 2011). 
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
+        <img src="/images/research/sample_graph_1.png" alt="Slow news cycle story graph" class="img">
+      </a>
+    </td>
+    <td>
+      <a href="/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank" title="Click me! Split attention story graph">
+        <img src="/images/research/sample_graph_2.png" alt="Split attention story graph" class="img">
+      </a>
+    </td>
+    <td>
+      <a href="/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/sample_graph_3.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
+  </tr>
+</table>
 My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.*
 
 ## Teaching (Fall 2022)
