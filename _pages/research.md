@@ -32,7 +32,7 @@ StoryGraph provides a collection tools that analyze the news cycle by computing 
 
 ## [StoryGraphBot](https://twitter.com/storygraphbot)
 
-<a href="https://twitter.com/storygraphbot">StoryGraphBot</a> is a Twitter bot that runs every hour, tracking top news stories and creating tweet threads that report updates (rising/falling/same attention) of the stories. See also, <a href="https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html" target="_blank">Chronicling the life-cycle of top new stories with StoryGraphBot</a>.
+StoryGraphBot is a Twitter bot that runs every hour, tracking top news stories and creating tweet threads that report updates (rising/falling/same attention) of the stories. See also, <a href="https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html" target="_blank">Chronicling the life-cycle of top new stories with StoryGraphBot</a>.
 
 <figure>
   <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Story Attention Dynamics Graph">
@@ -59,6 +59,8 @@ Local Memory Project helps users and small communities discover, collect, build,
         <img src="/images/research/LMG1.png" alt="Split attention story graph" class="img">
       </a>
     </td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; border-collapse: collapse;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
