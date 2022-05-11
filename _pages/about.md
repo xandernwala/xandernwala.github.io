@@ -17,7 +17,7 @@ I am an Assistant Professor of Data Science at William and Mary. I'm a graduate 
 
 * [DATA 440 - Web Science](/teaching/2022-spr-cs725825) / TR (09:30 -- 10:50, Integrated Science Center 3280)
 
-{: style="text-align: center;"}
+<!--{: style="text-align: center;"}-->
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}
     {% include archive-single.html %}
