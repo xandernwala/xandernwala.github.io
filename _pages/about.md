@@ -38,32 +38,32 @@ My research interests include *Social media/network analysis, computational soci
 
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
         <img src="/images/research/LMG0.png" alt="Slow news cycle story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank" title="Click me! Split attention story graph">
         <img src="/images/research/LMG1.png" alt="Split attention story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/LMG0.png" alt="Mueller report story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="padding: 0.0em;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/LMG1.png" alt="Mueller report story graph" class="img">
       </a>
