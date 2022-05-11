@@ -3,7 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-current_semester: "Spring 2018"
+current_semester: "Spring 2019"
 ---
 {% include base_path %}
 
