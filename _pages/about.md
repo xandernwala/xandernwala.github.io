@@ -36,7 +36,7 @@ I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science
 
 My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.*
 
-<table align="center">
+<table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
