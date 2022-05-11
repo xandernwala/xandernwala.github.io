@@ -5,7 +5,7 @@ title: "Research/Tools"
 
 My research is interdisciplinary encompassing, social media/computational social science, web/data science, web archiving, and (local) news.
 
-## StoryGraph
+## [StoryGraph](#StoryGraph)
 
 [StoryGraph](https://web.archive.org/storygraph/) provides a collection tools that analyze the news cycle by computing the similarity of news stories across 17 US news sources. [USA](https://web.archive.org/storygraph/graphs/usa/) generates a news similarity graph every 10 minutes by computing the similarity of news stories from 17 US news sources across the partisanship spectrum (left, center, and right). In these graphs, the nodes represent news articles, and an edge between a pair of nodes represents a high degree of similarity between the nodes (similar news stories). The graphs track the development of a news events.
 
