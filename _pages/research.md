@@ -31,3 +31,7 @@ StoryGraph provides a collection tools that analyze the news cycle by computing 
 </table>
 
 ## [StoryGraphBot](https://twitter.com/storygraphbot)
+
+<a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+  <img src="/images/research/sgbot_tracking_stories.png" alt="Story Attention Dynamics Graph" class="img">
+</a>
