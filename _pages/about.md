@@ -13,7 +13,7 @@ blogger-color: "#F37100"
 ---
 I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William and Mary (W&M). Before joining W&M, I was a postdoc at the [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington. And before that, a member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University (ODU). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and Elizabeth City State University (BS: 2011). 
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-style: none;">
   <tr>
     <td>
       <a href="/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
