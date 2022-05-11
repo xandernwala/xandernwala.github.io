@@ -30,7 +30,7 @@ My research is interdisciplinary encompassing, social media/computational social
   <caption align="bottom">Three news similarity graphs illustrating the dynamics of the news cycle. In these graphs, a single node represents a news article, a connected component (multiple connected nodes) represents a single news story reported by the connected nodes. StoryGraph uses the average degree (attention score) of the connected components to quantify the level of attention the topics in the news stories receive. <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank">The first graph</a> shows what is often referred to as a slow news day; low overlap across different news media organizations. <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank">The second graph</a> shows a scenario where the attention of the media is split across multiple news stories. <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21">The third graph</a> for the "AG William Barr's release of his principal conclusions of the Mueller Report" story shows a major news event; high degree of overlap/connectivity across different news media organizations.</caption>
 </table>
 
-## StoryGraphBot
+## [StoryGraphBot](#StoryGraphBot)
 
 [StoryGraphBot](https://twitter.com/storygraphbot) is a Twitter bot that runs every hour, tracking top news stories and creating tweet threads that report updates (rising/falling/same attention) of the stories. See also, <a href="https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html" target="_blank">Chronicling the life-cycle of top new stories with StoryGraphBot</a>.
 
@@ -43,7 +43,7 @@ My research is interdisciplinary encompassing, social media/computational social
   </figcaption>
 </figure>
 
-## Local Memory Project
+## [Local Memory Project](#LMP)
 
 [Local Memory Project](http://www.localmemory.org/) helps users and small communities discover, collect, build, archive, and share collections of stories for important local events from local sources.
 
