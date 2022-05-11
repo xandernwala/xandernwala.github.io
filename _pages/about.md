@@ -78,6 +78,26 @@ My research interests include *Social media/network analysis, computational soci
         <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
       </a>
     </td>
+    <td style="padding: 0.0em; border: 0px solid white;">
+      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/LMG0.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
+    <td style="padding: 0.0em; border: 0px solid white;">
+      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/LMG1.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
+    <td style="padding: 0.0em; border: 0px solid white;">
+      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
+    <td style="padding: 0.0em; border: 0px solid white;">
+      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
 
   </tr>
 </table>
