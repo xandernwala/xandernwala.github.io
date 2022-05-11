@@ -15,6 +15,8 @@ current_semester: "Spring 2018"
   {% endif %}
 {% endfor %}
 
+## Previous Semesters
+
 ## @ Old Dominion University
 
 * CS 432/532 - Web Science (Spring 2018/2019)
