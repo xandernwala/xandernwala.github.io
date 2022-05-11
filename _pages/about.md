@@ -11,16 +11,11 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science.
+I am an Assistant Professor of Data Science at William and Mary. I'm a graduate of Old Dominion University (PhD 2020, MS 2014) and Elizabeth City State University (BS 2011). My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, NLP.*
 
-**Research Interests:** web science, social media, web archiving, digital preservation, information visualization (see some student infovis projects at my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+## Teaching (Fall 2022)
 
-For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
-
-## Teaching (Spring 2022)
-
-1. [CS 725/825 - Information Visualization & Data Analytics](/teaching/2022-spr-cs725825) / Tu 4:20-7pm, MGB 0127 and online via Zoom
-1. [CS 800 - Research Methods](/teaching/2022-spr-cs800) / TR 11am-12:15pm, GORNT 0205 and online via Zoom
+* [DATA 440 - Web Science](/teaching/2022-spr-cs725825) / TR (09:30 -- 10:50, Integrated Science Center 3280)
 
 {: style="text-align: center;"}
 {% for post in site.publications reversed %}
@@ -32,4 +27,4 @@ For an overview of what I've been working on the past few years, see [On the imp
 
 ## Bio
 
-Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web science, social media, digital preservation, and information visualization. She has published over 115 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling almost $6M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
+Dr. Alexander Nwala is an assistant professor of Data Science at William and Mary (W&M). He received his PhD in Computer Science at Old Dominion University and has contributed multiple important tools and datasets to the data/web science, social media, (local) news, and web archiving communities. Dr. Nwala has taught Computer Science courses to High School, Undergraduate, and Graduate students and has collaborated across disciplines and institutions, including with computer scientists/journalists at IU, archivists at the National Library of Medicine, and lawyers at Harvard. And his research has been published in multiple peer-reviewed Journals and Conferences including the ACM/IEEE JCDL, ACM HyperText, and iPres.
