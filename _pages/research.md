@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research/Tools"
 ---
 
 My research is interdisciplinary encompassing, social media/computational social science, web/data science, web archiving, and (local) news.
