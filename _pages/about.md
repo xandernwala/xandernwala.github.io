@@ -30,6 +30,11 @@ I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science
         <img src="/images/research/sample_graph_3.png" alt="Mueller report story graph" class="img">
       </a>
     </td>
+    <td>
+      <a href="/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
+        <img src="/images/research/lmp.png" alt="Mueller report story graph" class="img">
+      </a>
+    </td>
   </tr>
 </table>
 My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.*
