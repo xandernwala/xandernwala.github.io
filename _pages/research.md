@@ -9,19 +9,19 @@ My research is interdisciplinary encompassing, social media/computational social
 
 StoryGraph provides a collection tools that analyze the news cycle by computing the similarity of news stories across 17 US news sources. [USA](https://web.archive.org/storygraph/graphs/usa/) generates a news similarity graph every 10 minutes by computing the similarity of news stories from 17 US news sources across the partisanship spectrum (left, center, and right). In these graphs, the nodes represent news articles, and an edge between a pair of nodes represents a high degree of similarity between the nodes (similar news stories). The graphs track the development of a news events.
 
-<table align="center">
+<table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: 1px solid white; border-collapse: collapse;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
         <img src="/images/research/sample_graph_1.png" alt="Slow news cycle story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="border: 1px solid white; border-collapse: collapse;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank" title="Click me! Split attention story graph">
         <img src="/images/research/sample_graph_2.png" alt="Split attention story graph" class="img">
       </a>
     </td>
-    <td>
+    <td style="border: 1px solid white; border-collapse: collapse;">
       <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
         <img src="/images/research/sample_graph_3.png" alt="Mueller report story graph" class="img">
       </a>
