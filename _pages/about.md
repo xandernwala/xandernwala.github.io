@@ -11,7 +11,7 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William and Mary (W&M). Before joining W&M, I was a postdoc at the [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington. And before that, a member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University (ODU). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and Elizabeth City State University (BS: 2011). 
+I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William and Mary ([W&M](https://www.wm.edu/)). Before joining W&M, I was a postdoc at the [Observatory on Social Media](https://osome.iu.edu/), [Indiana University](https://www.indiana.edu/), Bloomington. And before that, a member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University ([ODU](https://odu.edu/)). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and [Elizabeth City State University](https://www.ecsu.edu/) (BS: 2011). 
 
   
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
@@ -39,63 +39,63 @@ My research interests include *Social media/network analysis, computational soci
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=98&hist=1440&t=2019-03-21T16:26:25" target="_blank" title="Click me! Slow news cycle story graph">
-        <img src="/images/research/LMG0.png" alt="Slow news cycle story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG0.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=115&hist=1440&t=2019-11-17T19:15:38" target="_blank" title="Click me! Split attention story graph">
-        <img src="/images/research/LMG1.png" alt="Split attention story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG1.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG2.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG3.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG0.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG0.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG1.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG1.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG2.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG3.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG0.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG0.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG1.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG1.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG2.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG2.png" alt="Local news collage" class="img">
       </a>
     </td>
     <td style="padding: 0.0em; border: 0px solid white;">
-      <a href="https://web.archive.org/storygraph/graphs/usa/#cursor=135&hist=1440&t=2019-03-24T22:32:21" target="_blank" title="Click me! Mueller report story graph">
-        <img src="/images/research/LMG3.png" alt="Mueller report story graph" class="img">
+      <a href="/research/" target="_blank" title="Click me! Local news collage">
+        <img src="/images/research/LMG3.png" alt="Local news collage" class="img">
       </a>
     </td>
 
