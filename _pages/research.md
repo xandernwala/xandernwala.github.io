@@ -3,11 +3,11 @@ permalink: /research/
 title: "Research/Tools"
 ---
 
-My research is interdisciplinary, encompassing, social media/computational social science, web/data science, web archiving, and (local) news.
+My research is interdisciplinary, encompassing social media/computational social science, web/data science, web archiving, and (local) news.
 
 ## StoryGraph
 
-[StoryGraph](https://web.archive.org/storygraph/) provides a collection tools that analyze the news cycle by computing the similarity of news stories across 17 US news sources. [USA](https://web.archive.org/storygraph/graphs/usa/) generates a news similarity graph every 10 minutes by computing the similarity of news stories from 17 US news sources across the partisanship spectrum (left, center, and right). In these graphs, the nodes represent news articles, and an edge between a pair of nodes represents a high degree of similarity between the nodes (similar news stories). The graphs track the development of a news events.
+[StoryGraph](https://web.archive.org/storygraph/) provides a collection tools that analyze the news cycle by computing the similarity of news stories across 17 US news sources. [USA](https://web.archive.org/storygraph/graphs/usa/) generates a news similarity graph every 10 minutes by computing the similarity of news stories from 17 US news sources across the partisanship spectrum (left, center, and right). In these graphs, the nodes represent news articles, and an edge between a pair of nodes represents a high degree of similarity between the nodes (similar news stories).
 
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
@@ -93,6 +93,6 @@ My research is interdisciplinary, encompassing, social media/computational socia
 
 ## What Did It Look Like
 
-<a href="https://whatdiditlooklike.mementoweb.org/">What Did It Look Like</a> is a Twitter bot that replies a tweet that contains the <a href="https://twitter.com/search?q=%23whatdiditlooklike&src=hashtag_click">#whatdiditlooklike</a> hashtag and a URL, with Tumblr post of the yearly timelapse of what the webpage looked like.
+<a href="https://whatdiditlooklike.mementoweb.org/">What Did It Look Like</a> is a Twitter bot that replies to a tweet that contains the <a href="https://twitter.com/search?q=%23whatdiditlooklike&src=hashtag_click">#whatdiditlooklike</a> hashtag and a URL, with a Tumblr post of the yearly snapshot of what the webpage looked like.
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/BorIHM7tNBoluohrX2jGVA/95919248149" data-did="63d92e4d7a4129686a7480c86692fcf4aa033c7f"><a href="https://whatdiditlooklike.mementoweb.org/post/95919248149/what-did-http-www-facebook-com-look-like">https://whatdiditlooklike.mementoweb.org/post/95919248149/what-did-http-www-facebook-com-look-like</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
