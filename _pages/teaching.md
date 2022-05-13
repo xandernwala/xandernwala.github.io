@@ -3,7 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-current_semester: "Spring 2019"
+current_semester: "Fall 2022"
 ---
 {% include base_path %}
 
@@ -19,4 +19,4 @@ current_semester: "Spring 2019"
 
 ## @ Old Dominion University
 
-* CS 432/532 - Web Science (Spring 2018/2019)
+* CS 432/532 - Web Science ([Spring 2018](https://xandernwala.github.io/teaching/2021-fall-cs-432-532)/[2019](https://xandernwala.github.io/teaching/2021-fall-cs-432-532))
