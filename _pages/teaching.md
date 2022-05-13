@@ -19,4 +19,4 @@ current_semester: "Spring 2018"
 
 ## @ Old Dominion University
 
-* CS 432/532 - Web Science ([Spring 2018](https://xandernwala.github.io/teaching/2021-fall-cs-432-532)/[2019](https://xandernwala.github.io/teaching/2021-fall-cs-432-532))
+* CS 432/532 - Web Science ([Spring 2018](/teaching/2018-spring-cs-432-532)/[2019](/teaching/2019-spring-cs-432-532))
