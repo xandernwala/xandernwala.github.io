@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : alexander_c_nwala.jpg
+og_image                 : profile.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Alexander Nwala"
-  avatar           : "alexander_c_nwala.jpg"
+  avatar           : "profile.jpg"
   bio              : "Asst. Professor, Data Science"
   location         : "Williamsburg, VA"
   employer         : "William and Mary"
