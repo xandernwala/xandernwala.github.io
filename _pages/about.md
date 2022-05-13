@@ -104,7 +104,7 @@ My research interests include *Social media/network analysis, computational soci
 
 ## Teaching (Fall 2022)
 
-* [DATA 440 - Web Science](/teaching/2022-fall-data-440) / (Tues|Thurs)days (09:30 -- 10:50 am, Integrated Sci. Center 3280)
+* [DATA 440 - Web Science](/teaching/2022-fall-data-440): (Tues/Thurs)days (09:30 -- 10:50 am,  Integrated Sci. Center 3280)
 
 <!--{: style="text-align: center;"}-->
 {% for post in site.publications reversed %}
